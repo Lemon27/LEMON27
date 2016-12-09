@@ -18,7 +18,7 @@ public class Robot extends IterativeRobot {
     final String customAuto = "My Auto";
     String autoSelected;
     SendableChooser chooser;
-	//
+	
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
